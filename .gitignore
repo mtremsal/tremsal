@@ -3,7 +3,6 @@ composer.phar
 
 # Grav Specific
 .sass-cache
-composer.lock
 cache/*
 assets/*
 logs/*
