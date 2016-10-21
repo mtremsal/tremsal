@@ -1,7 +1,7 @@
-title: Grav
+title: Marc's Blog
 author:
-  name: Joe Bloggs
-  email: 'joe@test.com'
+  name: Marc Tremsal
+  email: 'marc@trems.al'
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+    description: "Marc's personal blog"
 
