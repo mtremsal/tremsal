@@ -8,8 +8,10 @@ Simple course tracker for Udacity
 
 ## [Front-End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Track
 
-Next Steps:
+Completed:
 * ud893 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) [**·]
+
+Next Steps:
 * ud304 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) [*··]
 * ud882 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) [**·]
 * ud245 - [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245) [**·]
