@@ -10,9 +10,9 @@ Simple course tracker for Udacity
 
 Completed:
 * ud893 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) [**·]
+* ud304 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) [*··]
 
 Next Steps:
-* ud304 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) [*··]
 * ud882 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) [**·]
 * ud245 - [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245) [**·]
 * ud804 - [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) [*··]
@@ -27,11 +27,11 @@ Next Steps:
 ## [Full Stack Web Developer](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) Track
 
 Completed:
+* ud893 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) [**·]
+* ud304 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) [*··]
 * ud036 - [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) [*··]
 
 Next Steps:
-* ud893 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) [**·]
-* ud304 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304) [*··]
 * ud882 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882) [**·]
 * ud171 - [Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171) [**·]
 * ud197 - [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) [**·]
