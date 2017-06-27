@@ -4,13 +4,15 @@ Marc Tremsal's blog based on [Grav](http://getgrav.org/downloads)
 
 # Deploying
 
-`vagrant ssh`
-`cd /var/www/public`
-`composer install --no-dev`
-`exit`
-`git add .`
-`git commit -m "message"`
-`git push`
+```
+vagrant ssh
+cd /var/www/public
+composer install --no-dev
+exit
+git add .
+git commit -m "message"
+git push
+```
 
 # Adding Functionality
 

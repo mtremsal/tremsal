@@ -1,13 +1,13 @@
-title: Grav                                 # Name of the site
+title: "Marc's Blog"                        # Name of the site
 
 author:
-  name: John Appleseed                      # Default author name
-  email: 'john@email.com'                   # Default author email
+  name: Marc Tremsal                        # Default author name
+  email: 'marc.tremsal@gmail.com'                   # Default author email
 
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 
 metadata:
-  description: 'My Grav Site'               # Site description
+  description: "Marc's Blog"                # Site description
 
 summary:
   enabled: true                             # enable or disable summary of page
@@ -16,19 +16,18 @@ summary:
   delimiter: ===                            # The summary delimiter
 
 redirects:
-#  '/redirect-test': '/'                         # Redirect test goes to home page
-#  '/old/(.*)': '/new/$1'                        # Would redirect /old/my-page to /new/my-page
+ '/linkedin': 'http://www.linkedin.com/in/mtremsal/'   
+ #  '/old/(.*)': '/new/$1'                        # Would redirect /old/my-page to /new/my-page
 
 routes:
-#  '/something/else': '/blog/sample-3'         # Alias for /blog/sample-3
-#  '/new/(.*)': '/blog/$1'                     # Regex any /new/my-page URL to /blog/my-page Route
+#  '/linkedin': 'http://www.linkedin.com/in/mtremsal/'     
 
 blog:
   route: '/blog'                            # Custom value added (accessible via system.blog.route)
 
-#menu:                                      # Sample Menu Example
-#    - text: Source
-#      icon: github
-#      url: https://github.com/getgrav/grav
-#    - icon: twitter
-#      url: http://twitter.com/getgrav
+menu:                                      # Sample Menu Example
+   - text: Source
+     icon: github
+     url: https://github.com/mtremsal/tremsal
+   - icon: twitter
+     url: https://twitter.com/mtremsal
