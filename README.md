@@ -1,5 +1,7 @@
 # mtremsal
 
+**DEPRECATED** - now using Glitch to generate the trems.al static site
+
 Marc Tremsal's blog based on [Grav](http://getgrav.org/downloads)
 
 # Deploying
